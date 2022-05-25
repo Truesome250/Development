@@ -1,0 +1,5 @@
+C:\Users\USER-PC\Documents\BTS\BTS_Portal\BTS.Models\obj\Debug\net6.0\BTS.Models.csproj.AssemblyReference.cache
+C:\Users\USER-PC\Documents\BTS\BTS_Portal\BTS.Models\obj\Debug\net6.0\BTS.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER-PC\Documents\BTS\BTS_Portal\BTS.Models\obj\Debug\net6.0\BTS.Models.AssemblyInfoInputs.cache
+C:\Users\USER-PC\Documents\BTS\BTS_Portal\BTS.Models\obj\Debug\net6.0\BTS.Models.AssemblyInfo.cs
+C:\Users\USER-PC\Documents\BTS\BTS_Portal\BTS.Models\obj\Debug\net6.0\BTS.Models.csproj.CoreCompileInputs.cache

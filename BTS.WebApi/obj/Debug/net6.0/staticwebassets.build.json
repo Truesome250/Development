@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "m7POeQDxOdXQWAVRhdL2ELkXsEQbSx4Qc1E2ctrMT4s=",
+  "Source": "BTS.WebApi",
+  "BasePath": "_content/BTS.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

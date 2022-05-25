@@ -1,0 +1,12 @@
+C:\Users\USER-PC\Documents\BTS\BTS_Portal\BTS.Services\bin\Debug\net6.0\BTS.Services.deps.json
+C:\Users\USER-PC\Documents\BTS\BTS_Portal\BTS.Services\bin\Debug\net6.0\BTS.Services.dll
+C:\Users\USER-PC\Documents\BTS\BTS_Portal\BTS.Services\bin\Debug\net6.0\BTS.Services.pdb
+C:\Users\USER-PC\Documents\BTS\BTS_Portal\BTS.Services\obj\Debug\net6.0\BTS.Services.csproj.AssemblyReference.cache
+C:\Users\USER-PC\Documents\BTS\BTS_Portal\BTS.Services\obj\Debug\net6.0\BTS.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER-PC\Documents\BTS\BTS_Portal\BTS.Services\obj\Debug\net6.0\BTS.Services.AssemblyInfoInputs.cache
+C:\Users\USER-PC\Documents\BTS\BTS_Portal\BTS.Services\obj\Debug\net6.0\BTS.Services.AssemblyInfo.cs
+C:\Users\USER-PC\Documents\BTS\BTS_Portal\BTS.Services\obj\Debug\net6.0\BTS.Services.csproj.CoreCompileInputs.cache
+C:\Users\USER-PC\Documents\BTS\BTS_Portal\BTS.Services\obj\Debug\net6.0\BTS.Services.dll
+C:\Users\USER-PC\Documents\BTS\BTS_Portal\BTS.Services\obj\Debug\net6.0\refint\BTS.Services.dll
+C:\Users\USER-PC\Documents\BTS\BTS_Portal\BTS.Services\obj\Debug\net6.0\BTS.Services.pdb
+C:\Users\USER-PC\Documents\BTS\BTS_Portal\BTS.Services\obj\Debug\net6.0\ref\BTS.Services.dll
